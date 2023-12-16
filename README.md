@@ -1,4 +1,4 @@
-# twitchEventApi大略文件
+# twitch webhook大略文件
 
 # ClientId
 -   網址: https://dev.twitch.tv/console
